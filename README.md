@@ -12,11 +12,11 @@ This is a simple Python Flask application that runs on Kubernetes.
 
 1. **Build the Docker image**:
    ```bash
-   docker build -t damilola93/my-k8s-app:latest .
+   docker build -t git_username/git_directory:latest .
 
 2. Push to Docker Hub:
 
-docker push damilola93/my-k8s-app:latest
+docker push github user_name/my-k8s-app:latest
 
 
 3. Deploy to Kubernetes:
