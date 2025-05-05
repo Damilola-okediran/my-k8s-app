@@ -1,7 +1,7 @@
 # My K8s App
 
 This is a simple Python Flask application that runs on Kubernetes.
-
+This shows it's implementation using AWS EKS.
 ## What It Does
 
 - Displays a message in the browser.
