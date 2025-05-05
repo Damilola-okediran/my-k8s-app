@@ -8,6 +8,9 @@ This shows it's implementation using AWS EKS.
 - Containerized with Docker.
 - Deployed to a Kubernetes cluster on AWS (EKS).
 
+# EKS cluster creation.
+- Terraform
+
 ## How to Run
 
 1. **Build the Docker image**:
