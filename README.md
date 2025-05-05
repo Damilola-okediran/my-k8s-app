@@ -16,7 +16,7 @@ This is a simple Python Flask application that runs on Kubernetes.
 
 2. Push to Docker Hub:
 
-docker push github user_name/my-k8s-app:latest
+docker push github user_name/project_directory:latest
 
 
 3. Deploy to Kubernetes:
